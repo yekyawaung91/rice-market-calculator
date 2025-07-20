@@ -3,6 +3,10 @@
 A comprehensive rice trading and market intelligence platform built with React.js, designed specifically for Myanmar's rice market. This platform provides real-time price calculations, transportation cost analysis, weather impact monitoring, and regional supply/demand insights.
 
 ![Rice Market Platform]
+---
+[Visit Demo](https://yekyawaung91.github.io/rice-market-calculator/)
+---
+
 ![Screenshot](screenshot.png)
 
 ## 🌾 Features
